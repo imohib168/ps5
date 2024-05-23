@@ -1,0 +1,26 @@
+{
+  "root": "src",
+  "rules": [
+    "api/*",
+    "store/*",
+    "routes/*",
+    "assets/**",
+    "features/*/components/*",
+    "features/*/hoc/*",
+    "features/*/containers/*",
+    "features/*/hooks/*",
+    "features/*/pages/*",
+    "features/*/services/*",
+    "features/*/slices/*",
+    "features/*/utils/*",
+    "shared/components/*",
+    "shared/containers/*",
+    "shared/layouts/*",
+    "shared/pages/*",
+    "shared/hoc/*",
+    "shared/hooks/*",
+    "shared/services/*",
+    "shared/utils/*",
+    "shared/styles/*"
+  ]
+}

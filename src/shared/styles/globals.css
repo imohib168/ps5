@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #e0e0e0;
+
+    --text-primary: #000000;
+    --text-secondary: #747474;
+
+    --primary: #0429ad;
+    /* --secondary: #0b1437; */
+
+    --radius: 0.5rem;
+  }
+
+  /* START - Custom Fonts */
+
+  @font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    src: url('../assets/fonts/Inter-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    font-weight: 500;
+    src: url('../assets/fonts/Inter-medium.ttf');
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    font-weight: 600;
+    src: url('../assets/fonts/Inter-SemiBold.ttf');
+  }
+
+  /* END - Custom Fonts */
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    @apply font-inter;
+  }
+
+  body {
+    @apply bg-gradient-to-b from-white to-background;
+  }
+}
