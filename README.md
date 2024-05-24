@@ -6,6 +6,8 @@ This project is a static animated carousel component built using Vite, React, Ty
 ## Demo Video
 https://github.com/imohib168/ps5/assets/50514728/7a3dfcc3-c27a-45c4-8b4c-d9df324925a7
 
+- If you prefer to access the carousel directly, you can view it at [Hosted URL](https://ps5-omega.vercel.app)
+
 ## Boilerplate Repository
 This project initially started by cloning the template from [imohib168/react-vite-boilerplate](https://github.com/imohib168/react-vite-boilerplate).
 
