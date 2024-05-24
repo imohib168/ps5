@@ -41,7 +41,7 @@ This project initially started by cloning the template from [imohib168/react-vit
 
 2. **Access the dashboard**
    
-   Open a web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the custom dashboard.
+   Open a web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Troubleshooting
 - If you encounter any issues during installation or running the application, please check the console logs for error messages.
