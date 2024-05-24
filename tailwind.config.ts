@@ -26,7 +26,6 @@ module.exports = {
         'text-secondary': 'var(--text-secondary)',
 
         primary: { DEFAULT: 'var(--primary)' },
-        // secondary: { DEFAULT: 'var(--secondary)' },
       },
 
       borderRadius: {

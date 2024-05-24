@@ -10,7 +10,6 @@
     --text-secondary: #747474;
 
     --primary: #0429ad;
-    /* --secondary: #0b1437; */
 
     --radius: 0.5rem;
   }
@@ -54,6 +53,22 @@
   .link-text {
     @apply font-bold text-lg cursor-pointer text-text-secondary;
   }
+
+  .content-container {
+    @apply fixed top-[18%] w-2/4 text-center left-1/2 -translate-x-1/2 space-y-4;
+  }
+
+  .label-text {
+    @apply text-5xl text-text-primary font-bold;
+  }
+
+  .description-text {
+    @apply text-2xl text-text-secondary font-semibold;
+  }
+}
+
+.custom-border-radius {
+  border-radius: 23% 14% 13% 25% / 100% 52% 48% 0%;
 }
 
 .active {
