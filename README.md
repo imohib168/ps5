@@ -1,7 +1,7 @@
 # PS5 Animated Carousel
 
 ## Project Overview
-This project is a static animated carousel component built using Vite, React, Typescript, Tailwind, and Framer Motion. The carousel features a responsive and interactive slideshow with three slides, showcasing PS5 game graphics and animations.
+This project is a static animated carousel component built using Vite, React, Typescript, Tailwind, and Framer Motion. The carousel features an interactive slideshow with three slides, showcasing PS5 game graphics and animations.
 
 ## Demo Video
 https://github.com/imohib168/ps5/assets/50514728/7a3dfcc3-c27a-45c4-8b4c-d9df324925a7
